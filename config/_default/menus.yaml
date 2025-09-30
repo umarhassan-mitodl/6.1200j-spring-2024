@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 6399dbf4-d94e-4b9d-966b-33cc26b0d814
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 03901c99-c017-44aa-a77f-cdb81dc3ce7a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 5e299848-d95a-4248-9200-9bc2fb36bc87
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 30
+- identifier: 746b0178-d6c0-409d-b232-0b347cad4e6b
+  name: Lecture Notes
+  pageRef: /lists/lecture-notes
+  weight: 40
+- identifier: 7787f9ca-ec16-4ed2-8162-7d88307be98b
+  name: Warm Up Problems
+  pageRef: /lists/warm-up-problems
+  weight: 50
+- identifier: d1543f1d-bfb5-42d7-9228-d789380363ed
+  name: Problem Sets
+  pageRef: /lists/problem-sets
+  weight: 60
